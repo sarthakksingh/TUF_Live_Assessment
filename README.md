@@ -1,6 +1,38 @@
 # Uchat
 
-Uchat is a Jetpack Compose Android app that recreates a WhatsApp-style experience with chats, status updates, and call history. The app uses a shared `ChatViewModel` and a local JSON-backed repository to keep conversations and contacts available between launches.
+Uchat is a Jetpack Compose Android app that recreates a WhatsApp-style experience with chats, status updates, and call history. The app uses a shared ChatViewModel and a local JSON-backed repository to persist conversations and contacts across app launches.
+
+
+
+🔗 References
+Codex Chat (Full Conversation Dump)
+https://docs.google.com/document/d/1a9W5nKV8GyS5cUsRhPS0BJSSn7yyuXmfPaT0QCQb9bQ/edit?usp=sharing
+
+(I have copied and pasted the whole chat in a doc file because codex does not yet support chat share feature in desktop version it howeer has a deeplink sharing feature below is the deeplink)
+
+Codex Deeplink
+codex://threads/019dcec8-cd30-7d82-bc42-ef71fdfa9b57
+Claude Chat
+https://claude.ai/share/271d0e63-1265-4f3b-94ff-4e5a3651da02
+
+
+
+
+
+📱 Screenshots
+💬 Chats Experience
+<p align="center"> <img src="https://github.com/user-attachments/assets/9d4cf926-7173-4878-a400-d07c71953311" width="30%" /> <img src="https://github.com/user-attachments/assets/b1de646d-dc0a-4520-8b79-e82f98e9e3a7" width="30%" /> <img src="https://github.com/user-attachments/assets/820a94a0-9de8-46cd-bfd9-598262acb59e" width="30%" /> </p>
+🟢 Status Screen
+<p align="center"> <img src="https://github.com/user-attachments/assets/67a155d2-b756-46b4-bbe9-7ecb0d26ef29" width="30%" /> </p>
+📞 Call History
+<p align="center"> <img src="https://github.com/user-attachments/assets/0b53846c-2b5c-46eb-a4e0-e259cb84a6b5" width="30%" /> </p>
+💬 Ongoing Chat UI
+<p align="center"> <img src="https://github.com/user-attachments/assets/d0908b27-59f1-4a39-b4f6-dc6a83abb48c" width="30%" /> <img src="https://github.com/user-attachments/assets/c98baaf2-7f52-4f25-89d1-7d70bba68251" width="30%" /> <img src="https://github.com/user-attachments/assets/7b96ba7d-00a5-4eca-84ad-9fb6356f9076" width="30%" /> </p>
+
+
+
+
+
 
 ## Features
 
