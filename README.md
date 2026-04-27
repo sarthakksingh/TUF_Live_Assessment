@@ -12,6 +12,7 @@ https://www.notion.so/Chat-History-34f82fe8ba418058aae0e2da8d8be7ea?source=copy_
 (I have copied and pasted the whole chat in a doc and a notion file because codex does not yet support chat share feature in desktop version it howeer has a deeplink sharing feature below is the deeplink i have not deleted the chat if needed i would provide the screenshots )
 
 Codex Deeplink
+
 codex://threads/019dcec8-cd30-7d82-bc42-ef71fdfa9b57
 
 
